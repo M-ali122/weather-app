@@ -260,7 +260,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               Row(
                                 mainAxisAlignment: MainAxisAlignment.end,
                                 children: [
-                                  'Feel Like'
+                                  'Feels Like'
                                       .text
                                       .color(theme.primaryColor)
                                       .size(20.sp)
